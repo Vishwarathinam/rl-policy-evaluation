@@ -48,13 +48,15 @@ The transition probabilities for each action are as follows:
 
 ### Graphical Representation:
 
-![img](ClassDiagram1.png)
+![p1](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/a0a76557-2fb9-4bd7-b290-6534520b1347)
+
 
 ## POLICY EVALUATION FUNCTION :
 
 ### Formula :
+![p9](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/a5ebc577-3e46-48c1-b3c9-eb113f01020f)
 
-![Alt text](image.png)
+
 
 ### PROGRAM :
 
@@ -307,10 +309,29 @@ else:
 ## OUTPUT:
 
 #### Policy 1
+![p2](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/c64bc21d-e6c3-4907-acbf-fcaea8c20607)
+
+## Policy-1 State-value function :
+![p3](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/7b2b88e0-7057-4edb-9313-f43e8e9fe44b)
+
+## Policy-1 evaluation :
+![p4](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/009aea22-65c2-4d8d-bf50-386d0444582f)
 
 #### Policy 2
+![p5](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/281cafa7-dc5b-44f6-b7d1-c283e979f48b)
 
-#### Comparison & Conclusion
+## Policy-2 State-value function :
+
+## Policy-2 evaluation :
+
+![p6](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/fcb1341e-effe-40e3-8239-8ecdee39afb4)
+
+## Comparison between 1st and 2nd policy :
+![p7](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/dc4bf9f2-a960-4dd0-9f0a-446166f0c3df)
+
+
+## Conclusion on 1st and 2nd policy :
+![p8](https://github.com/Vishwarathinam/rl-policy-evaluation/assets/95266350/b373ba6a-46d2-40d9-a24e-2a152259d20f)
 
 
 ## RESULT:
